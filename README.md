@@ -9,13 +9,7 @@
   [![Leetcode Badge](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/audil_iqbal/ "View on LeetCode")
   
   </div>
-
-## Some of my Github Public Stats
-<div align="center">
-  
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=audil-iqbal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/audil-iqbal) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audil-iqbal&hide=TeX&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&align=right)
-  
-</div>
+<hr/>
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
@@ -33,6 +27,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
     alt="css3"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/dart-52d6c4.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>
   </a>
 </p>
 
@@ -52,9 +49,15 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/flutter-5cc4f0.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-005e88.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+  </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
@@ -64,7 +67,11 @@
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/aws-252d39.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
   </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/gcp-32a350.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp"/>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -79,4 +86,11 @@
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
       alt="nginx"/> 
   </a> 
-</p>  
+</p> 
+  
+## Some of my Github Public Stats
+<div align="center">
+  
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=audil-iqbal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/audil-iqbal) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audil-iqbal&hide=TeX&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&align=right)
+  
+</div>  
