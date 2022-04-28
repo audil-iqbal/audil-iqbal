@@ -1,7 +1,7 @@
 <!-- ### Hi <devs/> 👋 I'm Audil Iqbal -->
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Audil Iqbal </h1>
-<h3 align="center">A evangelist Software Developer  from Bengaluru <img src="https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/India-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h3 align="center">A evangelist, Software Developer  from Bengaluru <img src="https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/India-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 <div align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/-audil.iqbal000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:audil.iqbal000@gmail.com "Connect via Email")
