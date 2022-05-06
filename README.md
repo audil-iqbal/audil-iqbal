@@ -6,7 +6,7 @@
   
   [![Gmail Badge](https://img.shields.io/badge/-audil.iqbal000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:audil.iqbal000@gmail.com "Connect via Email")
   [![Linkedin Badge](https://img.shields.io/badge/-Audil%20Iqbal-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/audil-iqbal "Connect on LinkedIn")
-  [![Leetcode Badge](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/audil_iqbal/ "View on LeetCode")
+  [![Leetcode Badge](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/audil-iqbal/ "View on LeetCode")
   
   </div>
 <hr/>
